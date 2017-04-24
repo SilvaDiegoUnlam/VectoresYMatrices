@@ -24,7 +24,7 @@ public class Matriz {
 		}
 	}
 	public Matriz(int f, int c) {
-		this.f=f; //3
+		this.f=f;
 		this.c=c;
 		dim=f*c;
 		cord = new double [f][c];

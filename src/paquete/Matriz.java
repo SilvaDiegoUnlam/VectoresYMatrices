@@ -7,7 +7,7 @@ import java.util.Scanner;
 import exceptions.DimensionException;
 
 public class Matriz {
-	private double [][] cord; //asdasdasdasdasdasdasd
+	private double [][] cord; //asdasdasdasdasdasdasd2
 	private int f,c,dim;
 	
 	public Matriz(File file) throws FileNotFoundException{
